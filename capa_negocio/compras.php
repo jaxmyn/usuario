@@ -8,7 +8,7 @@
 <body style="background-image: url('../img/m.jpg'); background-size: cover;">
     <div class="form-container">
         <form method="post">
-            <h1>REGISTRAR_COMPRAS</h1>
+            <h2>REGISTRAR LAS COMPRAS</h2>
             <label for="nombre_producto">Nombre del Producto:</label>
         <input type="text" name="nombre_producto" required>
         

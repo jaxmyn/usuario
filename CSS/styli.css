@@ -23,7 +23,7 @@ body {
 }
 
 /* Estilo para el título del formulario */
-h1 {
+h2 {
     color: #333;
 }
 
@@ -56,6 +56,9 @@ input[type="submit"] {
     font-size: 18px;
     margin-top: 20px;
 }
+
+
+
 .ok {
 	text-align: center;
 	width: 100%;
@@ -77,3 +80,4 @@ input[type="submit"] {
     margin-top: 20px;
     border-radius: 10px;
 }
+

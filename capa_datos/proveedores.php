@@ -8,7 +8,7 @@
 <body style="background-image: url('../img/m.jpg'); background-size: cover;">
     <div class="form-container">
         <form method="post">
-            <h1>REGISTRAR_PROVEEDORES</h1>
+            <h2>REGISTRAR LOS PROVEEDORES</h2>
             <label for="nombre_proveedor">Nombre del Proveedor:</label>
         <input type="text" name="nombre_proveedor" required>
         

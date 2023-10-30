@@ -8,7 +8,7 @@
 <body style="background-image: url('../img/m.jpg'); background-size: cover;">
     <div class="form-container">
         <form method="post">
-            <h1>REGISTRAR_CLIENTES</h1>
+            <h2>REGISTRAR CLIENTES</h2>
             <label for="nombre">nombre:</label>
         <input type="text" name="nombre" required>
         <label for="apellido">apellido:</label>

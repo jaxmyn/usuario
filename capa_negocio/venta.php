@@ -8,7 +8,7 @@
 <body style="background-image: url('../img/m.jpg'); background-size: cover;">
     <div class="form-container">
         <form method="post">
-            <h1>REGISTRAR_VENTA</h1>
+            <h2>REGISTRAR VENTAS</h2>
             <label for="codigo">Código del Producto:</label>
         <input type="text" id="codigo" name="codigo">
         
@@ -23,6 +23,7 @@
         
         <label for="fecha">Fecha y Hora de Venta:</label>
         <input type="datetime-local" id="fecha" name="fecha">
+        
         <input type="submit" name="register">
         </form>
         <img src="../img/r.jpg" alt="Imagen de encima del formulario" class="small-image">
